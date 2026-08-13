@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal/Platformer_Unreal 5.7/Content/Platformer/Blueprints/BP_Skating_Stationary.uasset",
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal/Platformer_Unreal 5.7/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/70/VSO0BNT55HDN2E6Q0L97LH.uasset",
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal 5.7/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/70/VSO0BNT55HDN2E6Q0L97LH.uasset",
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal 5.7/Content/Platformer/Blueprints/BP_Skating_Stationary.uasset",
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal 5.7/Content/ThirdPerson/_GENERATED/gabby/Combined_980132BE.uasset",
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal 5.7/Content/ThirdPerson/_GENERATED/gabby/Cylinder_64F9232E.uasset",
+				"C:/Users/gabby/OneDrive/Documents/JMC/Gabrielle_Dixon_387746_AGA201C_A3/Platformer_Unreal 5.7/Content/ThirdPerson/_GENERATED/gabby/Cylinder_9CB25B51.uasset"
+			]
+		}
+	]
+}
